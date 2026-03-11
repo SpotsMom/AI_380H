@@ -44,6 +44,10 @@ venv.bak/
 *.xls
 *.xlsx
 
+# PowerPoint files
+*.pptx
+~$*.pptx
+
 # OS files
 .DS_Store
 Thumbs.db
