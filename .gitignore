@@ -37,6 +37,9 @@ venv.bak/
 # VS Code settings
 .vscode/
 
+# Ignore embedded repo
+AI_380H/
+
 # Data files
 *.csv
 *.zip
